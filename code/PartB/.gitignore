@@ -1,0 +1,11 @@
+/gen*
+*.dSYM/
+/pth_sort
+/pth_sort_2
+/mpi_sort
+/mpi_sort_2
+/omp_sort
+/omp_sort_2
+/cuda_sort
+/cuda_sort_2
+sort.o*
